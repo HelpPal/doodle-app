@@ -1,0 +1,24 @@
+web:
+    dev:
+        port: 54321
+        host: localhost
+    production:
+        host: localhost
+        port: 3000
+
+api:
+    dev:
+        port: 3000
+        host: localhost
+    production:
+        host: 107.170.237.124
+        port: 3000
+
+google:
+    accessKey: AIzaSyB4bXefpkmL95fsZVuYo71n9Afg3do-8CE
+
+s3:
+    bucket: assets.doodle
+    bucketUrl: https://s3-us-west-2.amazonaws.com/assets.doodle
+    region: us-west-2
+    accessKey: AKIAIYPJEBJ4PF4TQHDA

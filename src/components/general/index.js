@@ -1,0 +1,1 @@
+export SquareConstraint from './SquareConstraint';

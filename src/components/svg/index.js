@@ -1,0 +1,2 @@
+
+export SvgRenderTarget from './SvgRenderTarget';

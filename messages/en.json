@@ -1,0 +1,44 @@
+{
+    "en": {
+        "brand": {
+            "name": "Caldera",
+            "heroTagline": "Javascript and React components"
+        },
+        "products": {
+            "seeMore": "See More",
+            "addToCart": "Buy now: ${amount}",
+            "placeOrder": "Place your order",
+            "errorMessage": "Unfortunately, your order could not be processed at this time.",
+            "tryAgain": "Please try again",
+            "currencyTotal": "Total: ${amount}",
+            "download": "Download",
+            "searchHere": "Search Projects Here",
+            "title": "{name}",
+            "description": "{description}"
+        },
+        "purchaseHistory": {
+            "orderPlaced": "Order Placed",
+            "total": "Total",
+            "history": "History",
+            "showDownloads": "Show Downloads",
+            "noItems": "There are no items in your history."
+        },
+        "login": {
+            "heading": "Login",
+            "username": "Username",
+            "password": "Password",
+            "submit": "Log In",
+            "rememberMe": "Remember Me"
+        },
+        "routes": {
+            "pageTop": "#",
+            "home": "Home",
+            "checkout": "Checkout",
+            "account": "Account"
+        },
+        "common": {
+            "copyright": "{year} © {holder}. All rights reserved.",
+            "currency": "${amount}"
+        }
+    }
+}
